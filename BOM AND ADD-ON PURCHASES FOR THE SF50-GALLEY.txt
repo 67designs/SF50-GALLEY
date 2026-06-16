@@ -1,0 +1,37 @@
+﻿### Cirrus SF50 Flex Cargo Floor Plate – Bill of Materials (BOM) & Purchase Options
+
+
+#### Overview
+This document lists the additional components and services required to complete the **Flex Cargo Floor Plate** and install footman loops with straps. This setup allows secure tie-down of items such as the Yeti® GoBox 30 Gear Case (or similar lightweight hard case storage) while maintaining a clean, professional appearance.
+
+
+#### Recommended Metal Laser Cutting & Finishing
+- **OSH-CUT** (Recommended)  
+  Upload the provided STEP file to [OSH-CUT](https://app.oshcut.com/cart) for precision laser cutting, edge finishing, and powder coating.  
+  - **Material**: 0.125" (1/8") aluminum  
+  - **Finish**: Powder coating of your choice  
+  OSH-CUT is based in Utah and has consistently delivered high-quality parts with excellent lead times. Their online quoting tool is straightforward and user-friendly. The owner (Caleb) is responsive if you need assistance.
+
+
+#### Recommended Add-ons
+- **Footman Loops**  
+  The floor plate is designed to accept six (6) small footman loops for securing cargo with 1" straps.  
+  - Required spacing: 2.12 inches (54 mm) center-to-center between mounting holes.  
+  - Recommended source: NAVVA footman loops available on Amazon.  
+  - Fasteners: Source appropriate #8 or #10 countersunk screws (length and thread type depend on your chosen loops) from Home Depot, McMaster-Carr, or similar.
+
+
+- **Rollercam 6’ Straps** (or equivalent)  
+  High-quality 1" wide cam-buckle straps that provide quick and reliable tie-down for light cargo.  
+  **Important Safety Note**: For any flight involving turbulence or significant maneuvering, always use the Cirrus OEM top cargo net in accordance with the official Flex Cargo Management system instructions.
+
+
+#### Intended Audience
+Cirrus SF50 Vision Jet owner-operators looking for a practical, durable, and aesthetically refined solution for cargo floor management.
+
+
+---
+
+
+**Usage Notes** - Always verify cargo weight and securement against the aircraft’s approved limitations and the Cirrus SF50 PIM available to the pilot..
+- The Flex Cargo Floor Plate is intended to complement, not replace, the factory cargo management system.

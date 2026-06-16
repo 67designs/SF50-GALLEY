@@ -1,0 +1,35 @@
+﻿### Cirrus SF50 Flex Cargo Floor Plate
+
+
+**Overview**  
+This STEP file provides the complete 3D CAD model for a 0.125" (3.175 mm) thick aluminum cargo floor plate designed specifically for the Cirrus SF50 Vision Jet able to utilize the Flex Cargo Management system. The plate installs directly over the factory OEM Flex Cargo Management netting on the cabin floor, creating a clean, stable platform after the 4th, 6th, and 7th seats are removed for cargo operations.
+
+
+**Key Features & Design Intent**
+- **Zero Modification Installation**: The plate integrates seamlessly with the factory-supplied cargo netting with its sewn-in connectors. No alterations to the OEM netting or aircraft structure are required. The netting slips into a small number edge slots only prior to the net and floor plate combination being set into the aircraft.
+- **Additional Tie-Down Capability**: Precision-cut holes accommodate standard footman loops (2.12 inches (54 mm) from the middle of one hole to the middle of the other for secure cargo 1” wide strapping options for small cargo such as the Yeti® GoBox 30 Gear Case and secured by 6’ Rollercam straps or similar.
+- **Full Compatibility**: The design preserves complete access to and functionality of the upper Flex Cargo Management netting, allowing continued use of all OEM cargo securement methods per Cirrus instructions.
+- **Aesthetic & Practical Improvement**: Dramatically reduces visual clutter and potential entanglement hazards from open netting in the third-row cargo area, delivering a cleaner, more professional appearance while maintaining full safety compliance.
+
+
+**Material**  
+6061-T6 or equivalent aircraft-grade aluminum, 0.125" thick that is best powder coated before installation with the netting.
+
+
+**Certification & Usage Notes**  
+This is a **Non-Essential Furnishing** intended for installation under the operator’s Minimum Equipment List (MMEL) classification. It is provided as an aftermarket accessory for owner-operators to use at their sole risk. Always verify compliance with applicable FAA regulations, perform a proper pre-flight inspection, and ensure cargo is secured in accordance with Cirrus Aircraft OEM guidance.
+
+
+**Classification as a Minor Alteration**: This plate is a non-structural interior accessory that sits over existing OEM cargo netting in the cabin floor area (when rear seats are removed). It does not affect primary structure, flight controls, systems, weight & balance in a meaningful way, performance, or safety of flight. Per FAA definitions (14 CFR Part 1.1 and Part 43 Appendix A), interior furnishings and similar items that do not require disassembly of primary structure or interfere with operating systems are typically minor alterations (or preventive maintenance in some cases).
+**NEF (Non-Essential Furnishings) Context**: NEF items are non-safety-critical cabin/cargo furnishings that have no effect on safe operation. For Part 91 operators, you can manage it under your NEF procedures without needing formal MEL approval.
+**Owner-Produced Parts & Installation**: As the owner, you can produce (or have produced) the part for your own aircraft under 14 CFR 21.9(a)(5). Installation by (or under the supervision of) an A&P mechanic, with a simple logbook entry per 43.9, is standard for minor alterations. No Form 337 or FAA field approval is typically required.
+
+
+
+
+**Repository License**  
+This design is released under a restrictive **non-commercial, no-derivatives** license. Personal/owner-operator use and modification for individual aircraft is permitted. Commercial reproduction, resale, or redistribution of the design files or derivative physical products is strictly prohibited. See `LICENSE` file for full terms.
+
+
+**Intended Audience**  
+Cirrus SF50 owner-operators seeking a practical, high-quality solution for aesthetically more pleasing cargo floor management.
